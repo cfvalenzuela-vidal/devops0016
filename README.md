@@ -29,3 +29,5 @@ A estar atentos a leer cuidadosamente las marcas de conflicto (<<<<<<< HEAD ) ya
 Tanto en trabajo como en proyectos personales he desarrollado pequeños scripts en Python pero nunca preste atención al control de versiones, ahora con GIT me permite llevar el control de estas y abre la posibilidad de colaborar con otros compañeros de trabajo. Además me permite más visibilidad en la red al mantener un portafolio online para compartirlo presentando mis conocimientos y desarrollos.
 
                                                                                                                        
+-----
+Profesor: Excelente Trabajo mi estimado. Sigua así! 
