@@ -1,6 +1,5 @@
 Bootcamp DevOps – Grupo 11
-Alumno: Cristian Valenzuela Vidal – cfvalenzuela.vidal@gmail.com
-	     Eduardo Ramírez – eramirez4@uc.cl       
+Alumno: Cristian Valenzuela Vidal – cfvalenzuela.vidal@gmail.com - Eduardo Ramírez – eramirez4@uc.cl       
                
 Ejercicio guiado M3-3: "Automatización Profesional con Maven” 
                                                                                                  
