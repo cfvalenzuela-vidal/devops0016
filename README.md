@@ -30,4 +30,4 @@ Tanto en trabajo como en proyectos personales he desarrollado pequeños scripts 
 
                                                                                                                        
 -----
-Profesor: Excelente Trabajo mi estimado. Sigua así! 
+Profesor: Excelente Trabajo mi estimado. Siga así! 
